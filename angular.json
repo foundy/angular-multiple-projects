@@ -276,6 +276,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "post"
+    }
+  },
+  "defaultProject": "post",
+  "cli": {
+    "analytics": false
+  }
 }
